@@ -1,0 +1,4 @@
+pyenv/
+.env
+*.log
+log.txt
